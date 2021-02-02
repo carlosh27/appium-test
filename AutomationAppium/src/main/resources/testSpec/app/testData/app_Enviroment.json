@@ -1,0 +1,11 @@
+{
+	"capabilities":{
+		"deviceName": "SM-A505G",
+		"udid": "R28M4131N3N",
+		"platformName": "Android",
+		"platformVersion": "10",
+		"appPackage": "io.grainchain.logintest",
+		"appActivity": "io.grainchain.logintest.ui.login.LoginActivity"
+	  },
+	  "urlServer": "http://127.0.0.1:4723/wd/hub"
+}

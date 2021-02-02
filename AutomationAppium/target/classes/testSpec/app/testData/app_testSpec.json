@@ -1,0 +1,15 @@
+{
+	"Test01":{
+		"testName": "Login With Valid Credentials",
+		"userName": "carlos.h27@hotmail.com",
+		"password": "Password123",
+		"expectedRessult": true
+	},
+	"Test02":{
+		"testName": "Login with Invalid Credentials",
+		"userName": "carlos.h27@hotmail.com",
+		"password": "pass",
+		"expectedRessult": false
+	}
+}
+
